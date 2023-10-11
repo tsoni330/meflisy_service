@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994929120466",
+    "firebase_url": "https://meflisy-users.firebaseio.com",
+    "project_id": "meflisy-users",
+    "storage_bucket": "meflisy-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994929120466:android:7e8e3d527e21efcf",
+        "android_client_info": {
+          "package_name": "com.meflisy.meflisy_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994929120466-3n134naso9ik89n21iodvb67h95l5srt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meflisy.meflisy_service",
+            "certificate_hash": "9f4535c75bd718a98024d659b434b6a9308598b6"
+          }
+        },
+        {
+          "client_id": "994929120466-qvimp3r3nic9cbmfol19m0j86kg8brjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQWcIyUxu6nWc4Rqk6eEaP5BTwkb2AQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994929120466-qvimp3r3nic9cbmfol19m0j86kg8brjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
